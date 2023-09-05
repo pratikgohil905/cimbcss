@@ -84,6 +84,10 @@ body {
     font-family: "SCProsperSans", sans-serif;
 }
 
+p {
+    font-size: 50px;
+}
+
 a {
     color: var(--black-color);
     text-decoration: none;
